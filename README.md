@@ -66,8 +66,8 @@ mino-platform-miniprogram/
 1. **项目初始化**
 ```bash
 # 克隆项目
-git clone <repository-url>
-cd mino-platform-miniprogram
+git clone git@github.com:ChenYue1030/WMP.git
+cd WMP
 ```
 
 2. **云开发环境配置**
