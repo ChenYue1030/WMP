@@ -37,7 +37,7 @@ Mino Platform 致力于连接品味相投、热爱生活和分享的人们，将
 mino-platform-miniprogram/
 ├── miniprogram/                    # 小程序主包
 │   ├── pages/                     # 页面文件
-│   │   ├── index/                 # 首页
+│   │   ├── index/                 # 首页（布局：轮播图、功能区 - 如画册、广告区、推荐区等）
 │   │   └── album/                 # 画册模块
 │   │       ├── album-home/        # 画册首页
 │   │       ├── album-editor/      # 画册编辑器
